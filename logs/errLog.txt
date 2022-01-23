@@ -1,0 +1,2 @@
+2022/01/22	22:32:31	2df37180-470d-4584-ac8e-2c115db40ac7	Error: ENOENT: no such file or directory, stat '/home/aungnaioo24/Web/Learning/realtimechat/views/index.html'
+2022/01/22	22:32:34	f87ebb08-8227-4899-8a4c-d0e60d355f45	Error: ENOENT: no such file or directory, stat '/home/aungnaioo24/Web/Learning/realtimechat/views/index.html'
